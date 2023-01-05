@@ -1,0 +1,8 @@
+services:
+  mibo:
+    container_name: mibo_dev
+    build: .
+    volumes:
+       - .:/workspace
+    working_dir: "/workspace"
+    tty: true
