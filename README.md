@@ -1,1 +1,1 @@
-# mibo
+# Material Infomatics by Bayesian Optimization
